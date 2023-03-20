@@ -1,2 +1,2 @@
-# PythonApp
+# APPLICATION
 Age calculation App
