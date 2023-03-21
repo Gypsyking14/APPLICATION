@@ -1,2 +1,2 @@
 # APPLICATION
-Age calculation App
+This app performs age calculation
